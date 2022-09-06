@@ -554,9 +554,9 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_141.jpg"
   },
 {
-  "name": "Airbus a220 (Air Senegal) ",
-  "livery": "142",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_142.jpg"
+  "name": "Airbus a220 (NUA) ",
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuaa220.jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuaa220.jpg"
   },
    {
 			"name": "Airbus a220 (Egypt Air Express) ",
