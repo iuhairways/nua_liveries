@@ -682,7 +682,7 @@ let livObj = { "aircraft": [
 
 	 {
 
-  "name": "Airbus a319 (Air Canada) by Jaden",
+  "name": "Airbus a319 (NorthEuropeanHolidays) by IUH Airways",
 
   "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuahthingywingy.jpg",
 
