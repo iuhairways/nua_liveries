@@ -1,7 +1,7 @@
 console.log("Loading...");
 let livObj;
  await fetch("https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nua.json")
- .then(res => res.json())
+ .then(res => res.json)
  .then(data => livObj = data) 
 if (geofs.version == 2.9) { //should work with URLs and livery IDs now, legacy geofs compat.
 livObj.aircraft.forEach(function(e){
