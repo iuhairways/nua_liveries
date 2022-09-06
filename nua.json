@@ -746,8 +746,8 @@
   },
 	{
   "name": "Airbus a319 (NorthEuropeanholidays) by IUH Airways",
-  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuahthingywingy.jpg?token=GHSAT0AAAAAABVQTCY2YL77WCP3PHXVNZS4YYWDCRQ",
-  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuahthingywingy.jpg?token=GHSAT0AAAAAABVQTCY2YL77WCP3PHXVNZS4YYWDCRQ"
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuahthingywingy.jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nuahthingywingy.jpg"
   },
 	{
   "name": "Airbus a319 (Gulf Air) by geofs user",
