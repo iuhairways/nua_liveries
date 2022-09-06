@@ -1,6 +1,6 @@
 console.log("Loading...");
 let livObj;
- await fetch("https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nua.js?token=GHSAT0AAAAAABVQTCY2USA6DMQOUVHL7VLKYYWDE7A")
+ await fetch("https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nua.js")
  .then(res => res.json())
  .then(data => livObj = data) 
 if (geofs.version == 2.9) { //should work with URLs and livery IDs now, legacy geofs compat.
