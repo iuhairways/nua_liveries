@@ -877,9 +877,9 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_134.jpg"
   },
   {
-  "name": "Boeing 787-9 (AI) by AI & Ahnaf552 ",
-  "livery": "131",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_131.jpg"
+  "name": "Boeing 787-9 (NUA cargo)  ",
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/image%20(11).jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/image%20(11).jpg"
   }
   ]}
 
