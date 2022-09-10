@@ -516,6 +516,15 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_174.jpg"
 
   },
+	{
+
+  "name": "Airbus a320neo (NUA queen memorial) by IUH Airways",
+
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/image.jpg",
+
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/image.jpg"
+
+  },
 
   {
 
