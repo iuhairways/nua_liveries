@@ -167,9 +167,9 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_161.jpg"
   },
   {
-  "name": "Boeing 737 Max 8 (Southwest) by IUH Airways",
+  "name": "Boeing 737 Max 8 (NOC) by IUH Airways",
   "livery": "163",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_163.jpg"
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nca.jpg"
   },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
