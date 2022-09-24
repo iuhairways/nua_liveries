@@ -168,7 +168,7 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Boeing 737 Max 8 (NOC) by IUH Airways",
-  "livery": "163",
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nca.jpg",
   "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nca.jpg"
   },
  {
