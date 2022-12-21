@@ -699,6 +699,16 @@ let livObj = { "aircraft": [
 
   },
 
+	 {
+
+  "name": "Airbus a319 (NorthEuropeanAirlines-stagecoach) by IUH Airways",
+
+  "livery": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/planebus.png",
+
+  "mptx": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/planebus.png"
+
+  },
+
 {
 
   "name": "Boeing 787-10 (Vietnam Airlines) ",
